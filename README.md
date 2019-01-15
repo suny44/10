@@ -8,4 +8,4 @@ Solutions can be found in the `solution` branch.
 
 **I am writing new code to demo GitHub!**
 
-I am fucking with it.
+I am happy learning it.
